@@ -1,0 +1,13 @@
+Herramientas para una correcta codificación y un buen funcionamiento de nuestro proyecto:
+
+1. https://nodejs.org/en/blog/release/v18.18.0 (Node jS  Version 18.18.0 estable) Esta herramienta nos ayudará ya que servirá como comunicarnos correctamente con el servidor o "levantarlo" , trabaja con javascript
+(En especifico hasta la ultima lista "Windows 64-bit Installer: https://nodejs.org/dist/v18.18.0/node-v18.18.0-x64.msi")
+2. npm install -g @angular/cli (Instalación de Angular) Angular nos ayudará tanto en el frontend como en el backend, será nuestro backend de desarrollo para el frontend, Esta linea de codigo se tendra que poner en la consola de proyecto de su IDE de preferencia VSC
+3. Para verificar que se instalo correctamente angular , ejecutar el siguiente comando:
+   
+----->	ng version (verificar la version de angular)
+
+4. Para poder trabajar cada uno a nivel local , en mi caso estoy utilizando XAMPP, pero cualquier otro software de base de datos que trabaja localmente funciona.
+link de XAMPP: https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.0/
+
+Con estas herramientas podremos lograr una excelente codificación.
